@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{266:function(o,n,e){"use strict";e.r(n);var t={fetch:function(o){(0,o.error)({statusCode:404,message:"Category not found"})}},r=e(8),component=Object(r.a)(t,void 0,void 0,!1,null,null,null);n.default=component.exports}}]);

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/category/raznoe", (function(a){return {data:[{}],fetch:[],mutations:[["posts\u002Fcategory\u002Fadd",{raznoe:{name:"raznoe",categoryId:a,totalPages:"0",posts:[{pageId:a,posts:[]}]}}]]}}(1)));

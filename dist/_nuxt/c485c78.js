@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{268:function(n,o,e){"use strict";e.r(o);var t={fetch:function(n){(0,n.error)({statusCode:404,message:"Tag not found"})}},c=e(8),component=Object(c.a)(t,void 0,void 0,!1,null,null,null);o.default=component.exports}}]);
